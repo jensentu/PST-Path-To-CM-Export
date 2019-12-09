@@ -2,9 +2,8 @@
 
 Script assumes the client has copied archive PST files into folders named after each user.
 Example:
-E:\Archives\user1@domain.com\<PST files>
-
-E:\Archives\user2@domain.com\<PST files>
+E:\Archives\user1@domain.com\PST files
+E:\Archives\user2@domain.com\PST files
 
 etc...
 
