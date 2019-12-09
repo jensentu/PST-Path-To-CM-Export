@@ -8,4 +8,4 @@ E:\Archives\user2@domain.com\PST files
 
 etc...
 
-Run the script and enter path of the folder containing the user folders.
+Run the script and enter path of the folder containing the user folders.  The csv will export to the same folder path you enter.
